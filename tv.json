@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "name": "家里常用",
+      "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/feimao.json"
+    },
+    {
+      "name": "家里备用",
+      "url": "https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/main/output/wangerxiao.json"
+    }
+  ]
+}
